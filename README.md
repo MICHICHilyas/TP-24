@@ -182,7 +182,18 @@ DELETE /api/devices/{id}
 - ✅ API REST complète
 - ✅ Interface Angular moderne
 
-## 👨‍💻 Auteur
+## � Captures d'écran
+
+### Application Smart Home
+![Smart Home](image.png)
+
+### Docker Compose Running
+![Docker Compose](image-1.png)
+
+### Interface Angular
+![Angular UI](image-2.png)
+
+## �👨‍💻 Auteur
 
 **Ilyas MICHICH**
 
